@@ -146,6 +146,10 @@ a{
    margin-bottom: 15px;
 }
 
+.profissionais-titulo{
+    padding: 20px;
+}
+
 .conteudo-profissionais-imagens{
     margin-top: 50px;
     margin-bottom: 55px;
@@ -211,6 +215,15 @@ a{
     margin-top: 100px;
 }
 
+.servico-titulo{
+    font-size: 24px;
+}
+
+.servico-palavra{
+    font-size: 20px;
+}
+
+
 .conteudo-servicos-escrito{
     width: 600px;
     margin-left: -100px;
@@ -226,6 +239,7 @@ a{
     background-color: #8abf63;
     color: #194159;
     cursor: pointer;
+    margin: 10px;
 }
 
 .conteudo-btn2:hover{
@@ -241,6 +255,16 @@ a{
     margin-top: 100px;
     margin-bottom: 100px;
     align-items: center;
+    background-color: #ebf2b3;
+    height: 500px;
+}
+
+.exigencia-titulo{
+    font-size: 24px;
+}
+
+.exigencias-topicos{
+    font-size: 18px;
 }
 
 .exigencias{
@@ -261,7 +285,7 @@ a{
     text-align: center;
     background-color: #ebf2b3;
     border-radius: 60px;
-    margin-left: 540px;
+    margin-left: 571px;
 }
 
 .conteudo-cartao-grande{
@@ -360,7 +384,7 @@ h5{
 .logos{
     display: flex;
     flex-direction: row;
-    font-size: 25px;
+    font-size: 30px;
     gap: 50px;
     justify-content: center;
     cursor: pointer;
