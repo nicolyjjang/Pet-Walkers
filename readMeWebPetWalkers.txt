@@ -6,12 +6,14 @@ Página web de acesso e cadastro ao serviço Pet Walker
 # Como usar
 - Abra um navegador
 - Digite o domínio
+- Entre na página e faça o login
+- Se não possuir login, efetue o cadastro
 
 # Requisitos de sistema 
 Sistema desktop ou móvel básico
 
 # Funcionalidades principais
-- Tela de login com acesso a banco de dados;
+- Tela de login;
 - Tela de cadastro;
 - Contato;
 - Home;
@@ -27,6 +29,6 @@ Página web projetada em css como componente da nota de 2ª entrega do Projeto I
 # Protótipo idealizado e desenvolvido no Figma.
 
 # Contato
-mrndemoraes@gmail.com
-nicolyjjang@gmail.com
-livyuri@hotmail.com
+Marina De Moraes - mrndemoraes@gmail.com
+Nicoly Jang - nicolyjjang@gmail.com
+Lívia Yuri - livyuri@hotmail.com
