@@ -5,12 +5,12 @@
 O Pet Walkers é um projeto desenvolvido como parte de um trabalho universitário, com o objetivo de simular uma plataforma digital que conecta tutores de pets a cuidadores qualificados para passeios e exercícios físicos. O projeto visa proporcionar uma experiência segura, divertida e enriquecedora para os pets, enquanto oferece praticidade e tranquilidade aos tutores ocupados.
 
 # Instalação e Execução
-Clone este repositório: git clone https://github.com/seu-usuario/pet-walkers.git
-Acesse o diretório do projeto: cd pet-walkers
-Instale as dependências do frontend e do backend: npm install (em ambos os diretórios)
-Inicie o servidor backend: npm start (no diretório do backend)
-Inicie o servidor frontend: npm run serve (no diretório do frontend)
-Acesse a aplicação em seu navegador: http://localhost:8080 (ou a porta indicada durante a inicialização)
+* Clone este repositório: git clone https://github.com/seu-usuario/pet-walkers.git<br>
+* Acesse o diretório do projeto: cd pet-walkers<br>
+* nstale as dependências do frontend e do backend: npm install (em ambos os diretórios)<br>
+* Inicie o servidor backend: npm start (no diretório do backend)<br>
+* Inicie o servidor frontend: npm run serve (no diretório do frontend)<br>
+* Acesse a aplicação em seu navegador: http://localhost:8080 (ou a porta indicada durante a inicialização)<br>
 
 # Requisitos de sistema
 
@@ -31,8 +31,6 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 
 ## Colaboradores 
 
-mrndemoraes@gmail.com
-
-nicolyjjang@gmail.com
-
-livyuri@hotmail.com
+* Lívia Yuri Tanaka Castilho
+* Marina Augusto de Moraes
+* Nicoly de Jesus Jang
