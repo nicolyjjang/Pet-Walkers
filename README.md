@@ -6,11 +6,8 @@ O Pet Walkers é um projeto desenvolvido como parte de um trabalho universitári
 
 # Instalação e Execução
 * Clone este repositório: git clone https://github.com/nicolyjjang/projeto-integrador-iv.git<br>
-* Acesse o diretório do projeto: cd pet-walkers<br>
 * Instale as dependências do frontend e do backend: npm install (em ambos os diretórios)<br>
 * Inicie o servidor backend: npm start (no diretório do backend)<br>
-* Inicie o servidor frontend: npm run serve (no diretório do frontend)<br>
-* Acesse a aplicação em seu navegador: http://localhost:8080 (ou a porta indicada durante a inicialização)<br>
 
 # Requisitos de sistema
 
