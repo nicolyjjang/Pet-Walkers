@@ -32,3 +32,5 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 * Lívia Yuri Tanaka Castilho
 * Marina Augusto de Moraes
 * Nicoly de Jesus Jang
+* Antenor Pereira dos Santos
+* Paulo Venício da Cunha M. Filho
