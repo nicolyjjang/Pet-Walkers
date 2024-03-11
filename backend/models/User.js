@@ -48,5 +48,6 @@ const User = db.define('users',{
 
 // Criar a tabela
 //User.sync()
+db.sync();
 
 module.exports = User
