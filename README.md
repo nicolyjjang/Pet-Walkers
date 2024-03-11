@@ -5,9 +5,10 @@
 O Pet Walkers é um projeto desenvolvido como parte de um trabalho universitário, com o objetivo de simular uma plataforma digital que conecta tutores de pets a cuidadores qualificados para passeios e exercícios físicos. O projeto visa proporcionar uma experiência segura, divertida e enriquecedora para os pets, enquanto oferece praticidade e tranquilidade aos tutores ocupados.
 
 # Instalação e Execução
+* Instalar na máquina do desenvolvedor o banco de dados mysql e criar a database pet_walkers (create database pet_walkers;)
 * Clone este repositório: git clone https://github.com/nicolyjjang/projeto-integrador-iv.git<br>
-* Instale as dependências do frontend e do backend: npm install (em ambos os diretórios)<br>
-* Inicie o servidor backend: npm start (no diretório do backend)<br>
+* Instale as dependências do backend: no dirteroio projeto-integrador-iv\backend rodar o comando npm install <br>
+* Inicie o servidor backend: no dirteroio projeto-integrador-iv\backend executar o comando node app.js<br>
 
 # Requisitos de sistema
 
@@ -31,3 +32,5 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 * Lívia Yuri Tanaka Castilho
 * Marina Augusto de Moraes
 * Nicoly de Jesus Jang
+* Antenor Pereira dos Santos
+* Paulo Venício da Cunha M. Filho
