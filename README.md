@@ -29,8 +29,14 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 
 ## Colaboradores 
 
-* Lívia Yuri Tanaka Castilho
-* Marina Augusto de Moraes
-* Nicoly de Jesus Jang
-* Antenor Pereira dos Santos
-* Paulo Venício da Cunha M. Filho
+### Lívia Yuri Tanaka Castilho
+![Lívia Yuri Tanaka Castilho]([https://github.com/user-attachments/assets/livia-photo.jpg](https://avatars.githubusercontent.com/u/145172974?v=4))
+
+### Marina Augusto de Moraes
+![Marina Augusto de Moraes]([https://github.com/user-attachments/assets/marina-photo.jpg](https://avatars.githubusercontent.com/u/123497104?v=4))
+
+### Nicoly de Jesus Jang
+![Nicoly de Jesus Jang]([https://github.com/user-attachments/assets/nicoly-photo.jpg](https://avatars.githubusercontent.com/u/107158277?s=400&u=05ecc01dd6fc7115310d2d5a8d61c79f082f4ab7&v=4))
+
+### Antenor Pereira dos Santos
+![Antenor Pereira dos Santos]([https://github.com/user-attachments/assets/antenor-photo.jpg](https://avatars.githubusercontent.com/u/145237759?v=4))
