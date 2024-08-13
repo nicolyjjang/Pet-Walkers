@@ -30,30 +30,33 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 ## Colaboradores 
 ### Colaboradores 🤝
 
-<div style="display: flex; justify-content: space-between;">
+### Colaboradores 🤝
 
-<div style="flex: 1; text-align: center;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+
+  <div style="flex: 1 1 20%; text-align: center; margin: 10px;">
     <img src="https://avatars.githubusercontent.com/u/145237759?v=4" alt="Antenor Pereira dos Santos" style="width: 100px; height: 100px; border-radius: 50%;" />
     <p>Antenor Pereira dos Santos</p>
   </div>
 
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1 1 20%; text-align: center; margin: 10px;">
     <img src="https://avatars.githubusercontent.com/u/145172974?v=4" alt="Lívia Yuri Tanaka Castilho" style="width: 100px; height: 100px; border-radius: 50%;" />
     <p>Lívia Yuri Tanaka Castilho</p>
   </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/123497104?v=4" alt="Marina Augusto de Moraes" style="width: 100px; height: 100px; border-radius: 50%;" />
-    <p>Marina Augusto de Moraes</p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
+  
+  <div style="flex: 1 1 20%; text-align: center; margin: 10px;">
     <img src="https://avatars.githubusercontent.com/u/107158277?s=400&u=05ecc01dd6fc7115310d2d5a8d61c79f082f4ab7&v=4" alt="Nicoly de Jesus Jang" style="width: 100px; height: 100px; border-radius: 50%;" />
     <p>Nicoly de Jesus Jang</p>
   </div>
 
+  <div style="flex: 1 1 20%; text-align: center; margin: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/123497104?v=4" alt="Marina Augusto de Moraes" style="width: 100px; height: 100px; border-radius: 50%;" />
+    <p>Marina Augusto de Moraes</p>
+  </div>
 
 </div>
+
 
 
 
